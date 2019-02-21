@@ -6,7 +6,7 @@ Two datasets are provided.
 
 `train_eng.csv` and `test_eng.csv` is the data with English names and associated genders.
 
-`train_rus.csv` and `test_rus.csv` contain similar data for Russian language.
+`train_rus.csv` and `test_rus.csv` contain similar data for with Russian names.
 
 ### Architecture
 
